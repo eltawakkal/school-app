@@ -18,8 +18,8 @@
     </div>
     <div class="flex md:w-1/2 justify-center py-10 items-center bg-white">
         <form class="bg-white">
-            <h1 class="text-gray-800 font-bold text-2xl mb-1">Hello Again!</h1>
-            <p class="text-sm font-normal text-gray-600 mb-7">Welcome Back</p>
+            <h1 class="text-gray-800 font-bold text-2xl mb-1">Ahlan!</h1>
+            <p class="text-sm font-normal text-gray-600 mb-7">Selamat Datang</p>
             <div class="flex items-center border-2 py-2 px-3 rounded-2xl mb-4">
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-gray-400" viewBox="0 0 20 20"
                     fill="currentColor">
